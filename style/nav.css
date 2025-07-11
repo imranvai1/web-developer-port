@@ -37,9 +37,12 @@
     font-weight: bold;
     color: #181818;
 }
-section-descripton{
+section-description{
     font-size: 18px;
     color: #757575;
+
+}
+.text-center{
 
 }
 /* header */
@@ -114,4 +117,9 @@ main{
  }
  .item-descriptiop{
     font-weight: 600;
+ }
+ /* Skill Container */
+ .skills-container{
+    display: flex;
+    border-color: white;
  }
